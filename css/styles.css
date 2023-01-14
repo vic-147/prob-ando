@@ -1,6 +1,6 @@
 body
 {
-    background-color: black;
+    background-color: rgb(185, 135, 135);
     color: rgb(55, 33, 33);
     text-align: left;
     font-family: 'Arial';
@@ -9,12 +9,18 @@ body
 
 #cabecera
 {
-    background: #33a;
+    background: rgb(132, 184, 194);
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
     font-weight: bold;
     color: white;
     margin: 0;
     padding: 0.9em;
+}
+
+#logo
+{
+    width: 4%;
+    height: auto;
 }
 
 #cabecera #tagline
@@ -40,7 +46,7 @@ body
 
 #footer
 {
-    background: #777;
+    background: rgb(198, 188, 161);
     text-align: center;
     padding: 0.5em;
 }
