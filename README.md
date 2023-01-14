@@ -1,4 +1,4 @@
-#READme :fa-music: :fa-music: :fa-music:
+#READme ☢ ☢ ☢
 Aprendiedo
 >Aprendien a usar git en Platzi
 >- esto saca un puntito
@@ -8,4 +8,4 @@ Aprendiedo
 * flujo de trabajo
 * y mucho mas
 
-&copy;hecho por mi :fa-check:
+&copy;hecho por mi ⚠
