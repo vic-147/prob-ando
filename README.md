@@ -1,4 +1,11 @@
-# prob-ando
-haciendo modificaciones en el README para probar git.
-neva linea agregada
-entrando desde la otra cuenta para ver que pasará
+#READme :fa-music: :fa-music: :fa-music:
+Aprendiedo
+>Aprendien a usar git en Platzi
+>- esto saca un puntito
+
+##Aprendien MD:
+* todos los comando de git
+* flujo de trabajo
+* y mucho mas
+
+&copy;hecho por mi :fa-check:
