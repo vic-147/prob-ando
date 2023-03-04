@@ -1,4 +1,4 @@
-#READme ☢ ☢ ☢
+# README ☢ ☢ ☢
 
 Aprendiedo
 >Aprendien a usar git en Platzi
